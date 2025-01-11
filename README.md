@@ -18,4 +18,4 @@
 - Form Handling: Formspree
 
 ## Website-Link
-[Travelo](https://minalmeshram28.github.io/Travel-Website/)
+[Travelo](https://sakshinavalkar13.github.io/TrekBuddy/)
